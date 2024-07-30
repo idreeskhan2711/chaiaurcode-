@@ -1,0 +1,10 @@
+package.json ,.env , Readme,git ,lint , prettier.
+src => index ,App ,constants 
+
+=>DataBase .Stores and manages data.
+=>Models . Define the structure of data and interactions with the database.
+=>Controllers . Handle the logic and processing of requests and responses.
+=>Routes . Define the URL paths and map them to corresponding controllers.
+=>Middleware . Process requests before they reach the controller and responses before they reach the client.
+=>Utils . Provide utility functions and helpers for common tasks.
+=>More .  Can include additional components like services, configurations, and integrations.
